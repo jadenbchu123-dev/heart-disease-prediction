@@ -15,8 +15,8 @@ UCI Heart Disease Dataset — 303 patient records, 13 clinical features (age, ch
 ## Results
 | Metric | Score |
 |--------|-------|
-| Accuracy | *run notebook to generate* |
-| ROC-AUC | *run notebook to generate* |
+| Accuracy | 78.69% |
+| ROC-AUC | 0.8647 |
 
 ## Tools
 Python, pandas, NumPy, scikit-learn, matplotlib, Jupyter Notebook
